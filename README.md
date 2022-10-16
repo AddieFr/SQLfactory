@@ -5,6 +5,6 @@ How To Use : howToUse.py   READ to know how to user!
 
 Main Script: SQLiteFactory.py
 
-project for growth company qiwanfroup
+project for growth company qiwangroup
 
 By god : arowe
