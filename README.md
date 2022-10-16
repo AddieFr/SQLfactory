@@ -7,4 +7,4 @@ Main Script: SQLiteFactory.py
 
 project for growth company qiwangroup
 
-By god : arowe
+
